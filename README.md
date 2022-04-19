@@ -6,7 +6,7 @@ A simple PHP and JavaScript AJAX hit counter that counts and displays the number
 
 1. Create a `<span id="hit-count"></span>` element on every page where you want to display the hit count number for that page.
 2. Copy the `<script src="hit-counter/js/script.js"></script>` declaration on every page you created the above element on.
-3. Copy the **hit-counter** folder.
+3. Copy the **hit-counter** folder to your web server.
 4. Thats it! If everything works, you should start seeing the hit count being displayed on each page you added it to and the **hit-counter/hits.json** file being populated.
 
 ## Need a hint?
